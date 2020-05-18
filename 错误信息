@@ -1,0 +1,60 @@
+    1  umane -a
+    2  uname -a
+    3  ping www.baidu.com
+    4  su
+    5  sudo passwd root
+    6  sudo
+    7  exit
+    8  git pull origin master
+    9  ifconfig
+   10  git config user.name
+   11  git config user.emial
+   12  git config user.email
+   13  git pull origin master
+   14  history>day1_黄泽涛2
+   15  ls
+   16  git pull origin master
+   17  git add --all
+   18  git commit -m"测试"
+   19  git clone https://github.com/githzet/test2020.git
+   20  ls -ah
+   21  git pull origin master
+   22  git add --all
+   23  git commit -m "可以不"
+   24  git push origin master
+   25  git init
+   26  history
+   27  git pull origin master
+   28  git clone https://github.com/githzet/test2020.git
+   29  cd /
+   30  ls
+   31  cd
+   32  ls 
+   33  git init
+   34  git pull origin master
+   35  cd
+   36  ls
+   37  git config --global user.name "黄泽涛"
+   38  git config --global user.email "892142433@qq.com"
+   39  git config user.name
+   40  git config --global user.name "huangzetao"
+   41  git config user.name
+   42  known_hosts 892142433@qq.com
+   43  cd nown_hosts
+   44  ssh-keygen -t rsa -C 892142433@qq.com
+   45  git pull origin master
+   46  git init
+   47  git remote add origin https://github.com/githzet/test2020.git
+   48  git fetch
+   49  cd
+   50  ls
+   51  cd /
+   52  ls
+   53  home
+   54  cd home
+   55  ls
+   56  cd ssshzet
+   57  ls
+   58  git pull origin master
+   59  history
+   60  history>错误信息
